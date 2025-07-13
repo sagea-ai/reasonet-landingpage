@@ -18,7 +18,7 @@
         <!-- Auth Buttons (Right-aligned) -->
         <div class="hidden md:flex flex-shrink-0 items-center justify-end space-x-4 w-1/4">
           <router-link 
-            to="/login"
+            to="https://app-reasonet.sagea.space"
             class="text-[14px] font-medium bg-black text-white px-4 py-2 rounded-full hover:opacity-90 transition-opacity"
           >
             Login
